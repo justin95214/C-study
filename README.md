@@ -1,4 +1,4 @@
-# C-study
+# C++-study
 복습
 
 ## <list>
